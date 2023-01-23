@@ -4,7 +4,7 @@ this python project explores data related to bike share systems for three major 
 Dataset Link
 https://www.dropbox.com/s/i9x9y143bujd3pp/BikeShareData.zip?dl=0
 
-Libriay Used :- 
+libraries used :- 
 
 - pandas
 - numpy
